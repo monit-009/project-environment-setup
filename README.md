@@ -1,18 +1,18 @@
 # This is my end to end project
 
-# check if git is already config 
+check if git is already config 
 git remote -v
 
-# To remove git old config
+To remove git old config
 git reomte rm origin
 
-# To config git
+To config git
 git config --global user.name "monit-009"
 git config --global user.email "monitdatascience@gmail.com"
 git remote add origin https://github.com/monit-009/project-environment-setup.git
 ...
 git remote -v
-# git initilize the git
+git initilize the git
 ...
 git init
 ...
