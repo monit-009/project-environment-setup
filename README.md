@@ -17,6 +17,7 @@ git remote -v
 git init
 ...
 git add file_name
+git add . #add all files
 git commit -m "message"
 git push origin branch_name
 git pull origin branch_name
